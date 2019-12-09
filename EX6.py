@@ -37,3 +37,4 @@ def payments (values):
 			ans.append(trashold(i))
 		else:
 			ans.append(0)
+	return ans		
