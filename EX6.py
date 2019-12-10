@@ -1,5 +1,7 @@
 #margarita pinhasov
 
+#Q2
+
 def choosing_rule(x):
 	return x>10
 	
