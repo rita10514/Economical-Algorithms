@@ -36,9 +36,10 @@ def ismonotonic (values):
 
 def payments (values):
 	if ismonotonic(values) == false : print("Error: choosing function is not monotonic")
+	c = choices(values)
 	ans = []
 	for i in values:
-		if choices(i) == 1:
+		if c[i] == 1:
 			ans.append(trashold(i))
 		else:
 			ans.append(0)
