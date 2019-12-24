@@ -1,6 +1,11 @@
 import random
 import math
-from itertools import combinations
+
+def arrangement (l,subgroups):
+	s=''
+	for i in l:
+		s=s+subgroups[i]
+	return s	
 
 #a
 def Shapley (costs):
@@ -12,7 +17,7 @@ def Shapley (costs):
 	for i in range(len(costs)*10):
 		random.shuffle(l)
 		print('__________')
-		print("the arrangement is: "+subgroups[l[0]]+subgroups[l[1]]+subgroups[l[2]])
+		print("the arrangement is: " + arrangement(l,subgroups))
 		MC[l[0]-1] = costs[subgroups[l[0]]]
 		SV[l[0]-1] = SV[l[0]-1] + MC[l[0]-1]
 		s=subgroups[l[0]]
@@ -26,7 +31,7 @@ def Shapley (costs):
 		s=''
 	print("")		
 	SV = [ x/(len(costs)*10) for x in SV ]
-	return SV	
+	return SV		
 
 #b	- the result is very simular to the example	
 costs = {'0' : 0, 'A' : 10, 'B' : 15, 'C' : 25, 'AB' : 20, 'AC' : 29, 'BC' : 35, 'ABC' : 37}
