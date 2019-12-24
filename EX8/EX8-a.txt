@@ -1,0 +1,407 @@
+Python 3.7.3 (v3.7.3:ef4ec6ed12, Mar 25 2019, 22:22:05) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=========== RESTART: D:\download\לימודים\אלגוריתמים כלכליים\EX8.py ===========
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [10, 8, 19]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [12, 18, 44]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [14, 33, 64]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [24, 41, 83]
+__________
+the arrangement is: CAB
+the Marginal Cost in alpabetical order is: [4, 8, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [28, 49, 108]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [38, 57, 127]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [40, 67, 152]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [42, 82, 172]
+__________
+the arrangement is: ABC
+the Marginal Cost in alpabetical order is: [10, 10, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [52, 92, 189]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [54, 107, 209]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [59, 122, 226]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [61, 137, 246]
+__________
+the arrangement is: ABC
+the Marginal Cost in alpabetical order is: [10, 10, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [71, 147, 263]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [73, 162, 283]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [78, 177, 300]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [80, 192, 320]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [82, 207, 340]
+__________
+the arrangement is: CAB
+the Marginal Cost in alpabetical order is: [4, 8, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [86, 215, 365]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [88, 225, 390]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [93, 240, 407]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [95, 250, 432]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [105, 258, 451]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [110, 273, 468]
+__________
+the arrangement is: ABC
+the Marginal Cost in alpabetical order is: [10, 10, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [120, 283, 485]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [130, 291, 504]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [135, 306, 521]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [145, 314, 540]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [147, 324, 565]
+__________
+the arrangement is: CAB
+the Marginal Cost in alpabetical order is: [4, 8, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [151, 332, 590]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [156, 347, 607]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [161, 362, 624]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [166, 377, 641]
+__________
+the arrangement is: ABC
+the Marginal Cost in alpabetical order is: [10, 10, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [176, 387, 658]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [181, 402, 675]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [191, 410, 694]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [193, 420, 719]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [198, 435, 736]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [200, 450, 756]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [202, 465, 776]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [204, 475, 801]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [206, 490, 821]
+__________
+the arrangement is: CAB
+the Marginal Cost in alpabetical order is: [4, 8, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [210, 498, 846]
+__________
+the arrangement is: CAB
+the Marginal Cost in alpabetical order is: [4, 8, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [214, 506, 871]
+__________
+the arrangement is: ABC
+the Marginal Cost in alpabetical order is: [10, 10, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [224, 516, 888]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [226, 531, 908]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [228, 541, 933]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [233, 556, 950]
+__________
+the arrangement is: CAB
+the Marginal Cost in alpabetical order is: [4, 8, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [237, 564, 975]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [247, 572, 994]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [249, 587, 1014]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [251, 597, 1039]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [253, 607, 1064]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [263, 615, 1083]
+__________
+the arrangement is: ABC
+the Marginal Cost in alpabetical order is: [10, 10, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [273, 625, 1100]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [275, 635, 1125]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [277, 650, 1145]
+__________
+the arrangement is: ABC
+the Marginal Cost in alpabetical order is: [10, 10, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [287, 660, 1162]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [297, 668, 1181]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [302, 683, 1198]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [304, 693, 1223]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [306, 708, 1243]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [311, 723, 1260]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [313, 733, 1285]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [323, 741, 1304]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [328, 756, 1321]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [338, 764, 1340]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [343, 779, 1357]
+__________
+the arrangement is: CAB
+the Marginal Cost in alpabetical order is: [4, 8, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [347, 787, 1382]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [357, 795, 1401]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [359, 810, 1421]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [361, 820, 1446]
+__________
+the arrangement is: BCA
+the Marginal Cost in alpabetical order is: [2, 15, 20]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [363, 835, 1466]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [373, 843, 1485]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [383, 851, 1504]
+__________
+the arrangement is: CBA
+the Marginal Cost in alpabetical order is: [2, 10, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [385, 861, 1529]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [390, 876, 1546]
+__________
+the arrangement is: CAB
+the Marginal Cost in alpabetical order is: [4, 8, 25]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [394, 884, 1571]
+__________
+the arrangement is: BAC
+the Marginal Cost in alpabetical order is: [5, 15, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [399, 899, 1588]
+__________
+the arrangement is: ACB
+the Marginal Cost in alpabetical order is: [10, 8, 19]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [409, 907, 1607]
+__________
+the arrangement is: ABC
+the Marginal Cost in alpabetical order is: [10, 10, 17]
+_________
+the sum of the Marginal Cost of each in alphbetical order is: [419, 917, 1624]
+
+the Shapley values in alpabetical order is: [5.2375, 11.4625, 20.3]
+>>> 
